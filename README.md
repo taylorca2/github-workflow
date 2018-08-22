@@ -2,7 +2,7 @@
 
 Name: _______________________________________
 
-## DUE: 31 Aug 2017
+## DUE: 30 Aug 2018
 
 ## Instructions:
 ***NOTE:***This assignment has a dual purpose. 1. To test the Git workflow procedures for completing assignments this semester and 2. To refresh your knowledge of basic HTML/CSS principles. I have included a simple HTML "HelloWorld" project for you to edit, commit, and push from your local computer. NOTE: If you plan to use Git through an IDE rather than the command line, I recommend you download and use [WebStorm](https://www.jetbrains.com/webstorm/).
