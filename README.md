@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Corey Taylor
 
 ## DUE: 30 Aug 2018
 

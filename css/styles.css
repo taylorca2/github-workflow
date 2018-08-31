@@ -1,0 +1,105 @@
+body{
+    background: radial-gradient(white, #2b915f, #5e2b91, #161663) fixed;
+}
+
+#wrapper{
+    margin: 0 auto;
+}
+#Hobbies p{
+    position: absolute;
+    top: 220px;
+    background-color: rgba(255,92,28,.5);
+    left: -300px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 10px 10px 0;
+}
+#Hobbies p:hover{
+    left: 0;
+}
+#wrapper p{
+    color: aliceblue;
+    text-align: center;
+    font-family: Broadway, "Fira Code Medium", sans-serif;
+}
+#Academics p{
+    position: absolute;
+    top: 420px;
+    background-color: rgba(99,209,62,.5);
+    left: -300px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 10px 10px 0;
+}
+#Academics p:hover{
+    left: 0;
+}
+#Random p{
+    position: absolute;
+    top: 420px;
+    background-color: rgba(203,217,15,.5);
+    right: -300px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px 0 0 10px;
+
+}
+#Random p:hover{
+    right: 0;
+}
+#Random2 p{
+    position: absolute;
+    top: 220px;
+    background-color: rgba(216,31,42,.5);
+    right: -300px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px 0 0 10px;
+
+}
+#Random2 p:hover{
+    right: 0;
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+    display: block;
+}
+h3{
+    width: 500px;
+    text-align: center;
+    color: aliceblue;
+    font-family: Broadway, "Fira Code Medium", sans-serif;
+    margin: 0 auto;
+}
+footer{
+    color: white;
+    font-family: verdana, serif;
+    text-align: center;
+    font-size: .60em;
+    font-style: italic;
+}
+footer a{
+    text-decoration: none;
+    color: gold;
+}
